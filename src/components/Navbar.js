@@ -29,9 +29,10 @@ function Navbar() {
         <>
         <nav className='navbar'>
         <div className='navbar-container'>
-          <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
+          <Link to='/' className='navbar-logo' onClick={closeMobileMenu}> 
+            <img className="formfix-logo" src="./images/icon.png" alt="Logo here"/>
             Formfix
-            <i class='fab fa-typo3' />
+            
           </Link>
           <div className='menu-icon' onClick={handleClick}>
             <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
@@ -43,18 +44,18 @@ function Navbar() {
                         </Link>
                     </li>
                     <li className='nav-item'>
-                        <Link to="/home-workouts" className="nav-links" onClick={closeMobileMenu}> 
+                        <Link to="/" className="nav-links" onClick={closeMobileMenu}> 
                         Contact Us
                         </Link>
                     </li> 
                     <li className='nav-item'>
-                        <Link to="/diet-and-nutrition" className="nav-links" onClick={closeMobileMenu}> 
+                        <Link to="/" className="nav-links" onClick={closeMobileMenu}> 
                         References
                         </Link>
                     </li>
 
                     <li>
-                        <Link to="/sign-up" 
+                        <Link to="/" 
                         className="nav-links-mobile"
                         onClick={closeMobileMenu}
                         >
