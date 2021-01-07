@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Formfix2/static/css/main.ab049d9c.chunk.css",
-    "main.js": "/Formfix2/static/js/main.e0053f63.chunk.js",
-    "main.js.map": "/Formfix2/static/js/main.e0053f63.chunk.js.map",
+    "main.js": "/Formfix2/static/js/main.0e1d6beb.chunk.js",
+    "main.js.map": "/Formfix2/static/js/main.0e1d6beb.chunk.js.map",
     "runtime-main.js": "/Formfix2/static/js/runtime-main.fe1673b7.js",
     "runtime-main.js.map": "/Formfix2/static/js/runtime-main.fe1673b7.js.map",
     "static/js/2.d6fc8c11.chunk.js": "/Formfix2/static/js/2.d6fc8c11.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.fe1673b7.js",
     "static/js/2.d6fc8c11.chunk.js",
     "static/css/main.ab049d9c.chunk.css",
-    "static/js/main.e0053f63.chunk.js"
+    "static/js/main.0e1d6beb.chunk.js"
   ]
 }
